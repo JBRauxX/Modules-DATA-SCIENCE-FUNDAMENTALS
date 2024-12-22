@@ -1,0 +1,1 @@
+SELECT * FROM ms_produk WHERE nama_Produk = 'Gantungan Kunci DQLab' AND harga < 50000 LIMIT 1;
